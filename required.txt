@@ -1,0 +1,17 @@
+# Core dependencies
+flask==3.0.0
+flask-cors==4.0.0
+pandas==2.1.4
+anthropic==0.40.0
+
+# Sentiment Analysis
+vaderSentiment==3.3.2
+
+# YouTube Transcript
+youtube-transcript-api==0.6.2
+
+# HTTP requests
+requests==2.31.0
+
+# Environment variables (recommended)
+python-dotenv==1.0.0
